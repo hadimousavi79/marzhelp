@@ -605,7 +605,7 @@ EOF
     fi
 
     echo "Cloning Marzhelp repository from GitHub..."
-    git clone https://github.com/ppouria/marzhelp.git /var/www/html/marzhelp
+    git clone https://github.com/hadimousavi79/marzhelp.git /var/www/html/marzhelp
 
     # Define commands and permissions to apply
     commands=(
